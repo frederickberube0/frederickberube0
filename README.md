@@ -1,12 +1,12 @@
 
 #### `./fred --help`
-🏫  Studying Computer Science in <a href="https://carleton.ca">Carleton University </a>
+🏫  Studying Computer Science at <a href="https://carleton.ca">Carleton University </a>
 
 🔍  Focus on cloud development
 
 👨‍💻‍ Pursuing a career as Cloud Architect or Full Stack Developer
 
-🔨 Currently working @ CRA & personal project [frederickberube.live](https://frederickberube.live)
+🔨 Currently web dev @ CRA. Previously software developer intern @ Entrust.
 
 🧋 Come visit my website <a href="https://frederickberube.live">frederickberube.live</a>!
 
