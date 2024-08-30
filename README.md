@@ -6,7 +6,7 @@
 
 👨‍💻‍ Pursuing a career as Cloud Architect or Full Stack Developer
 
-🔨 Currently web dev @ CRA. Previously software developer intern @ Entrust.
+🔨 Currently embeded software engineering intern @ Ciena. Previously software developer intern @ Entrust and web dev @ CRA.
 
 🧋 Come visit my website <a href="https://frederickberube.live">frederickberube.live</a>!
 
